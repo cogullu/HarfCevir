@@ -1,2 +1,2 @@
-# KucukHarfeCevir
-##TR karakterleri küçük harfe çevirir
+# HarfCevir
+##TR karakterleri küçük veya büyük harfe çevirir
